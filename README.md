@@ -22,7 +22,7 @@ ECCUIQueue queue = connection.GetQueue();
 //Cancel queue
 connection.CancelQueue(prompt.Prompt_Id);
 //Cancel all queued
-connection.CancelQueued(prompt.Prompt_Id);
+connection.CancelQueued();
 ```
 
 ## Download file
