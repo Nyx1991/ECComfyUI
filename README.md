@@ -1,6 +1,9 @@
 # Simple .NET Library to call ComfyUI API
 Currently only supports the most basic functions
 
+## Requirements
+- [Newtonsoft.JSON](https://www.nuget.org/packages/newtonsoft.json/)
+
 ## Connect
 ```
 ECComfyUIConnection connection = new ECComfyUIConnection();
