@@ -1,0 +1,12 @@
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\ECComfyUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\ECComfyUI.AssemblyInfoInputs.cache
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\ECComfyUI.AssemblyInfo.cs
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\ECComfyUI.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\ECComfyUI.csproj.AssemblyReference.cache
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\bin\Debug\net8.0\ECComfyUI.deps.json
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\bin\Debug\net8.0\ECComfyUI.dll
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\bin\Debug\net8.0\ECComfyUI.pdb
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\ECComfyUI.dll
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\refint\ECComfyUI.dll
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\ECComfyUI.pdb
+F:\VisualStudio\Projects\ECComfyUI\ECComfyUI\obj\Debug\net8.0\ref\ECComfyUI.dll

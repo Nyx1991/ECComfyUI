@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EjGAgNP9z1c=",
+  "success": true,
+  "projectFilePath": "F:\\VisualStudio\\Projects\\ECComfyUI\\ECComfyUIConsole\\ECComfyUIConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexanderEckardt\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Projects\\ECComfyUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C11744-F704-4E12-B0C4-774C9AE98F99}|ECComfyUI\\ECComfyUI.csproj|f:\\visualstudio\\projects\\eccomfyui\\eccomfyui\\eccomfyuiconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C11744-F704-4E12-B0C4-774C9AE98F99}|ECComfyUI\\ECComfyUI.csproj|solutionrelative:eccomfyui\\eccomfyuiconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4A0D7F-86DA-4495-B80C-165968F0625F}|ECComfyUIConsole\\ECComfyUIConsole.csproj|f:\\visualstudio\\projects\\eccomfyui\\eccomfyuiconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4A0D7F-86DA-4495-B80C-165968F0625F}|ECComfyUIConsole\\ECComfyUIConsole.csproj|solutionrelative:eccomfyuiconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ECComfyUIConnection.cs",
+              "DocumentMoniker": "F:\\VisualStudio\\Projects\\ECComfyUI\\ECComfyUI\\ECComfyUIConnection.cs",
+              "RelativeDocumentMoniker": "ECComfyUI\\ECComfyUIConnection.cs",
+              "ToolTip": "F:\\VisualStudio\\Projects\\ECComfyUI\\ECComfyUI\\ECComfyUIConnection.cs",
+              "RelativeToolTip": "ECComfyUI\\ECComfyUIConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:57:12.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\VisualStudio\\Projects\\ECComfyUI\\ECComfyUIConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ECComfyUIConsole\\Program.cs",
+              "ToolTip": "F:\\VisualStudio\\Projects\\ECComfyUI\\ECComfyUIConsole\\Program.cs",
+              "RelativeToolTip": "ECComfyUIConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:30:14.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
